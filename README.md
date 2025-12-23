@@ -4,3 +4,7 @@ This is the official code repository for the paper: Synchronized Membrane Potent
 
 In our paper, we introduce:
 
+- **A novel synchronized membrane potential-driven plasticity (SMDP) algorithm:** Inspired by biological burst-firing phenomena, SMDP assigns spiking coefficients to each spike event, allowing neurons to emit multiple spikes simultaneously.
+
+
+
