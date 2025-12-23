@@ -13,6 +13,6 @@ In our paper, we introduce:
 </p>
 
 <p align="center">
-<img src="images/SMDP.png" width="100%" height="100%" />
+<img src="images/SMDP.png" width="85%" height="85%" />
 </p>
 
